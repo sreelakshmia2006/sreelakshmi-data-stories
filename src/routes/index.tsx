@@ -62,6 +62,9 @@ const credentials = [
 const skills = [
   "Python",
   "Data Analytics",
+  "Excel",
+  "Power BI",
+  "MySQL",
   "YOLO / Deep Learning",
   "OCR",
   "SQLite",
