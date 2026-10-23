@@ -108,7 +108,7 @@ function Index() {
               Electronics & Communication Engineering · Data Analytics
             </p>
             <h1 className="font-display text-5xl font-bold tracking-tight sm:text-6xl">
-              Hi, I'm Sreelakshmi A.
+              Sreelakshmi A
             </h1>
             <p className="mt-6 max-w-2xl text-lg leading-relaxed text-muted-foreground">
               An Electronics and Communication Engineering graduate currently building my
